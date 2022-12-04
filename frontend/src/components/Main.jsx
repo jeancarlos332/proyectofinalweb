@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 
 const Main = () => {
   return (
+    
     <div className="container mt-5">
       <h1 className="text-center">Menú random CRUDS</h1>
       <div className="container mt-5" >
@@ -13,7 +14,7 @@ const Main = () => {
         <br />
         <Link to="/games" className="link">
           Games
-          
+
         </Link>
         <br />
         <Link to="/employees" className="link">
