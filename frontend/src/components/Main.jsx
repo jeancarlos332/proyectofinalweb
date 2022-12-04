@@ -13,6 +13,7 @@ const Main = () => {
         <br />
         <Link to="/games" className="link">
           Games
+          
         </Link>
         <br />
         <Link to="/employees" className="link">
