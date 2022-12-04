@@ -16,6 +16,7 @@ const Card = ({ character = "" }) => {
             </div>
         </div>
     );
+    
 };
 
 export default Card;
